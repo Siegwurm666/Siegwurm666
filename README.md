@@ -19,3 +19,4 @@
 </tr>
 </table>
 <!--- stats (end) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Siegwurm666)](https://git.io/streak-stats)
