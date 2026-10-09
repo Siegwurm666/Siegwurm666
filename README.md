@@ -26,18 +26,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,wind&theme=light" />
   </a>
-  <h3>Backend</h3>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,docker&theme=light" />
-  </a>
-   <h3>AI Engineering</h3>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,supabase,bots&theme=light" />
-  </a>
-    <h3>Tools</h3>
-     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
-  </a>
   </div>
 <br>
 <div align=center>
@@ -68,21 +56,6 @@ Last Edited on: 12/07/2025
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-## Hi there 👋
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
