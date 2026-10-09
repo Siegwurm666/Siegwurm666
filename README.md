@@ -19,7 +19,24 @@
 </tr>
 </table>
 <!--- stats (end) -->
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h1 align="center">Hola 👋  soy Andy / Siegwurm666 ✨ </h1> 
 
 <p align="center">
@@ -27,11 +44,7 @@
 <a href = "andyramirezlopez82@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Andy"  /></a>
   </p>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <h1 align=center>Sobre mi 😃</h1>
 <!--Intro start-->
 
